@@ -2,9 +2,12 @@
 
 Aplikasi Flutter simpel dan powerful untuk mengelola **biodata secara real-time** menggunakan **Firebase Firestore**. Tambah, edit, tampilkan, dan hapus data dengan mudah!  
 
----
 
-## ✨ **Fitur Unggulan**  
+---
+ss :  ![habib](https://github.com/user-attachments/assets/7c756e4d-51c3-40f7-8b44-bd767d3e16d5)
+
+## ✨ **Fitur Unggulan** 
+
 ✅ **Tambah Biodata** – Simpan nama, usia, dan alamat ke Firestore  
 ✅ **Tampilkan Data** – Lihat daftar biodata yang tersimpan secara real-time  
 ✅ **Edit Biodata** – Perbarui informasi biodata dengan mudah  
