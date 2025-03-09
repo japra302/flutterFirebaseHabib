@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993370956606",
+    "project_id": "biodata-ok-10197",
+    "storage_bucket": "biodata-ok-10197.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993370956606:android:e6d8b72da98b8f38c7c26f",
+        "android_client_info": {
+          "package_name": "com.abw.biodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFzZ5wd2eUyky_rU41FA92-rlNVnHcYRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
