@@ -4,8 +4,8 @@ Aplikasi Flutter simpel dan powerful untuk mengelola **biodata secara real-time*
 
 
 ---
-ss :  ![habib](https://github.com/user-attachments/assets/7c756e4d-51c3-40f7-8b44-bd767d3e16d5)
 ss :  ![habib](habib.png)
+
 
 ## ✨ **Fitur Unggulan** 
 
